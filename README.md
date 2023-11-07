@@ -1,7 +1,7 @@
-Rearrange
-=========
+Rearrange Module
+================
 
-This module is used for rearranging names.
+This module is used for update rearranging names.
 Turns "LastName, FirstName" into "FirstName LastName"
 
 ## Example
