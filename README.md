@@ -1,4 +1,5 @@
 Rearrange By Hussam
+Add new information to the Readme file
 =========
 
 This module is used for rearranging names.
