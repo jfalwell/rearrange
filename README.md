@@ -1,4 +1,4 @@
-Rearrange
+Rearrange By Hussam
 =========
 
 This module is used for rearranging names.
