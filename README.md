@@ -1,6 +1,7 @@
 Rearrange
 =========
 
+Purpose of this module:
 This module is used for rearranging names.
 Turns "LastName, FirstName" into "FirstName LastName"
 
