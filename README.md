@@ -9,3 +9,7 @@ Turns "LastName, FirstName" into "FirstName LastName"
  * Calling 'reaarange_name("Turing, Alan")' will return '"Alan Turing"'
  * Calling 'reaarange_name("Hopper, Grace M.")' will return '"Grace M. Hopper"'
  * Calling 'reaarange_name("Voltaire")' will return '"Voltaire"'
+
+I hope you enjoy my module! <3
+
+Some extra...clarification?
