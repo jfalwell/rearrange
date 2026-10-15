@@ -3,7 +3,7 @@ Rearrange
 
 This module is used for rearranging names.
 Turns "LastName, FirstName" into "FirstName LastName"
-
+This module is use for practice
 ## Example
 
  * Calling 'reaarange_name("Turing, Alan")' will return '"Alan Turing"'
